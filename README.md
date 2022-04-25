@@ -13,7 +13,7 @@
 <p align="left">
 <img align="center" src="https://simpleicons.org/icons/lua.svg" alt="uczsl5tbgva4b9i0rtakusew" height="30" width="40" /></a>
 <img align="center" src="https://simpleicons.org/icons/html5.svg" alt="rapidcode" height="30" width="40" /></a>
-<img align="center" src="https://simpleicons.org/icons/css.svg" alt="rapidcode" height="30" width="40" /></a>
+<img align="center" src="https://simpleicons.org/icons/css3.svg" alt="rapidcode" height="30" width="40" /></a>
 <img align="center" src="https://simpleicons.org/icons/javascript.svg" alt="rapidcode" height="30" width="40" /></a>
 <img align="center" src="https://simpleicons.org/icons/adobephotoshop.svg" alt="rapidcode" height="30" width="40" /></a>
 <img align="center" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="rapidcode" height="30" width="40" /></a>
