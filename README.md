@@ -2,15 +2,23 @@
 
 <!--
 **zoxydev/zoxydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">zoxydev profile</h1>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zoxydev&show_icons=true&theme=dark" >
+<h3 align="left">A passionate backend developer</h3>
+-I'm currently focusing on the rapid:code project.
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/uczsl5tbgva4b9i0rtakusew" target="blank"><img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="uczsl5tbgva4b9i0rtakusew" height="30" width="40" /></a>
+<a href="https://discord.gg/rapidcode" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="rapidcode" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img align="center" src="https://simpleicons.org/icons/lua.svg" alt="uczsl5tbgva4b9i0rtakusew" height="30" width="40" /></a>
+<img align="center" src="https://simpleicons.org/icons/html5.svg" alt="rapidcode" height="30" width="40" /></a>
+<img align="center" src="https://simpleicons.org/icons/css.svg" alt="rapidcode" height="30" width="40" /></a>
+<img align="center" src="https://simpleicons.org/icons/javascript.svg" alt="rapidcode" height="30" width="40" /></a>
+<img align="center" src="https://simpleicons.org/icons/adobephotoshop.svg" alt="rapidcode" height="30" width="40" /></a>
+<img align="center" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="rapidcode" height="30" width="40" /></a>
+</p>
