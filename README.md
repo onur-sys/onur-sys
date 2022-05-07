@@ -1,6 +1,6 @@
 <h1 align="center">zoxydev profile</h1>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zoxydev&show_icons=true&theme=dark" >
-<h3 align="left">A passionate backend developer</h3>
+<h3 align="left">A passionate back-end developer</h3>
 -I'm currently focusing on the rapid:code project.
 
 <h3 align="left">Connect with me:</h3>
